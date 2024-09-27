@@ -1,4 +1,5 @@
 # JoinToCreateVCBot
+An extremely simple join-to-create voice channel solution
 
 ## How to use
 
