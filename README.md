@@ -4,7 +4,7 @@ A simple, commandless join-to-create voice channel Discord bot.
 ## About
 
 ### What is commandless?
-This bot has no commands. It only relies on pre-existing Discord functionality.
+This bot has no commands. It only relies on existing Discord functionality.
 
 ### How does it work?
 This bot not only creates temporary channels for users, but also gives them the appropiate permissions to manage the channel. This allows for a seamless experience for users less familiar with Discord commands.
