@@ -2,7 +2,7 @@
 Lightweight Discord bot enabling join-to-create voice channels
 
 ### How it works
-When a user joins a designated "Join to Create" channel:
+##### When a user joins a designated "Join to Create" channel:
 1. The bot creates a temporary channel for the user.
 2. The joiner gets channel customization permissions.
 3. Permissions transfer if joiner leaves; channel deletes when empty.
