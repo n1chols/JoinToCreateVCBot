@@ -18,6 +18,7 @@ const channelMarkers = {
 
 const requiredPermissions = [
     PermissionFlagsBits.ViewChannel,
+    PermissionFlagsBits.Connect,
     PermissionFlagsBits.ManageChannels,
     PermissionFlagsBits.ManageRoles,
     PermissionFlagsBits.MoveMembers,
