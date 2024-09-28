@@ -1,0 +1,18 @@
+{
+  "name": "jointocreatevcbot",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/app.js"
+  },
+  "author": "tob4n",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.7.3",
+    "discord.js": "^14.16.2",
+    "dotenv": "^16.4.5",
+    "typescript": "^5.6.2"
+  }
+}
