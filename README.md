@@ -6,7 +6,7 @@ Lightweight Discord bot enabling join-to-create voice channels
 1. The bot creates a temporary channel for the user.
 2. The joiner gets channel customization permissions.
 
-##### When a user leaves a designated temporary channel:
+##### When a user leaves their temporary channel:
 1. If the voice channel is empty, it's deleted
 2. Otherwise, the next user inherits channel customization permissions
 
