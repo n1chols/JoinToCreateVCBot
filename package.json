@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "main": "app.ts",
   "scripts": {
+    "start": "node build/app.js",
     "build": "tsc",
-    "start": "node build/app.js"
+    "heroku-postbuild": "tsc"
   },
   "author": "tob4n",
   "license": "MIT",
