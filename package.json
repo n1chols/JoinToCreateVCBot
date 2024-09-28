@@ -9,7 +9,7 @@
   },
   "author": "tob4n",
   "license": "MIT",
-  "description": "",
+  "description": "Lightweight Discord bot enabling join-to-create voice channels",
   "dependencies": {
     "@types/node": "^22.7.3",
     "discord.js": "^14.16.2",
