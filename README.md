@@ -20,3 +20,4 @@ Make sure that the channel is synced with the parent category and ensure that th
 - `Manage Channels`
 - `Manage Permissions`
 - `Move Members`
+- `Request to Speak`
