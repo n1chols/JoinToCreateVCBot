@@ -1,4 +1,4 @@
-## JoinToCreateVCBot
+## JoinToCreateVCBot - [Invite me!](https://discord.com/oauth2/authorize?client_id=1289098871909384202)
 Lightweight Discord bot enabling join-to-create voice channels
 
 ### How it works
