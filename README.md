@@ -1,5 +1,7 @@
 ## JoinToCreateVCBot - [Invite me!](https://discord.com/oauth2/authorize?client_id=1289098871909384202)
-Simple Discord bot enabling join-to-create voice channels
+Simple Discord bot enabling join-to-create voice channels.
+
+No dangerous role permissions required!
 
 ### How it works
 ##### When a user joins a designated "Join to Create" channel:
