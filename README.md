@@ -7,7 +7,7 @@ No dangerous global permissions required!
 ##### When a user joins a designated "Join to Create" channel:
 1. The bot creates a new temporary channel for the user.
 2. The user is given customization permissions for that channel.
-3. The user is moved into the new channel.
+3. The user is moved into the new temporary channel.
 
 ##### When a user leaves a designated temporary channel:
 1. If the channel is now empty, it's deleted.
