@@ -17,7 +17,7 @@ No dangerous global permissions required!
 Explicitly grant the bot user `Priority Speaker` in the desired voice channel. (This is intentionally arbitrary as to not interfere with server permissions.)
 
 ##### 2. Set the required permissions:
-Make sure that the channel is synced with the parent category and ensure that the bot has all of the following permissions within the parent category:
+Make sure the voice channel is synced with a parent category and ensure the bot has each of the following permissions in the parent category:
 - `View Channels`
 - `Manage Channels`
 - `Manage Permissions`
