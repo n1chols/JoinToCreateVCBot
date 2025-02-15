@@ -5,12 +5,13 @@ No dangerous global permissions required!
 
 ### How it works
 ##### When a user joins a designated "Join to Create" channel:
-1. The bot creates a temporary channel for the user.
-2. The joiner gets channel customization permissions.
+1. The bot creates a new temporary channel for the user.
+2. The user is given customization permissions for that channel.
+3. The user is moved into the new channel.
 
 ##### When a user leaves a designated temporary channel:
-1. If they were the creator, another user inherits channel customization permissions.
-2. Otherwise, if the voice channel is now empty, it's deleted.
+1. If the voice channel is now empty, it's deleted.
+2. Otherwise, if they were the owner of the channel, a new user inherits channel customization permissions.
 
 ### Instructions
 ##### 1. Add a "Join to Create" channel:
