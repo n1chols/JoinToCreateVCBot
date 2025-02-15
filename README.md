@@ -10,8 +10,8 @@ No dangerous global permissions required!
 3. The user is moved into the new channel.
 
 ##### When a user leaves a designated temporary channel:
-1. If the voice channel is now empty, it's deleted.
-2. Otherwise, if they were the owner of the channel, a new user inherits channel customization permissions.
+1. If the voice channel is empty, it's deleted.
+2. Otherwise, if they were the owner, a new user inherits channel customization permissions.
 
 ### Instructions
 ##### 1. Add a "Join to Create" channel:
